@@ -1,1 +1,31 @@
 https://dm-us.informaticacloud.com/identity-service/home
+Coding
+Easy
+Create CDI Connection for Flatfile and create a Synchronisation Task for Insert and
+Update Transaction
+1
+10 marks each
+10
+Coding
+Easy
+Create CDI Connection based on Parametrisation to load data into Snowflake Table
+1
+10 marks each
+10
+Coding
+Medium
+Create CDI Connection for AWS S3 Bucket and create a Mapping for loading data into Snowflake Table using connection parametrisation for Source and Target; implement data loads based on parameter-file configuration and conditions using Expression (Param), Filter (Param), and Sort before loading into Target.
+1
+20 marks each
+20
+Coding
+Medium
+Load data from 2 CSV files to 2 different target tables by creating a Mapping with Filter and Expression; use the mappings inside Mapping Tasks to implement a parallel Taskflow and trigger an e-mail on successful completion of data load.
+1
+20 marks each
+20
+TOTAL
+Overall Assessment
+34
+100
+Candidate preparation note: Focus on conceptual clarity for MCQs and hands-on implementation for coding questions. Practice platform configuration, data integration, mappings, transformations, parameterisation, taskflows, and Snowflake-targeted data loading workflows aligned to the topics above.
